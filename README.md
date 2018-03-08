@@ -1,4 +1,4 @@
-# TerminalChess
+# TerminalChess v1.1
 Play chess in the linux console! (2 Players)
 
 How to play?
